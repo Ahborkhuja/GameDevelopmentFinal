@@ -2,6 +2,7 @@
 # **Final Project from Game Development - NSE 4**
 
 ## Students:
+- **Otojon Xudoyorov** - 210075
 - **Farangiz Ismoilova** - 210185  
 - **Charos Abdusattorova** - 210160  
 - **Akhborkhuja Yodgorov** - 210181  
