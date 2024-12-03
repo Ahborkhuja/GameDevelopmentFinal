@@ -48,7 +48,27 @@ Follow these steps to set up the game locally:
 
 1. **Clone the Repository**:
    ```bash
-   [git clone https://github.com/yourusername/survival-shooter-game.git](https://github.com/Ahborkhuja/GameDevelopmentFinal.git)
+   git clone https://github.com/yourusername/survival-shooter-game.git](https://github.com/Ahborkhuja/GameDevelopmentFinal.git)
+
+## Open in Unity
+
+1. **Download and install Unity** (version `XYZ` recommended).
+2. **Open Unity Hub**:
+   - Launch Unity Hub on your system.
+   - Click on the "Add" button and select the project folder.
+3. **Load the Project**:
+   - Open the added project in Unity Hub to load it in the Unity Editor.
+
+## Build the Game
+
+1. **Open the Project**:
+   - Open the project in the Unity Editor.
+2. **Build Settings**:
+   - Navigate to `File > Build Settings`.
+   - Choose your target platform (e.g., Windows, Mac, Linux, Android, iOS).
+3. **Build and Run**:
+   - Click on the `Build and Run` button to build the game and start playing.
+
 
 
           
