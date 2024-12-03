@@ -48,7 +48,7 @@ Follow these steps to set up the game locally:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/survival-shooter-game.git
+   [git clone https://github.com/yourusername/survival-shooter-game.git](https://github.com/Ahborkhuja/GameDevelopmentFinal.git)
 
 
           
