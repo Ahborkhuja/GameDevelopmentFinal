@@ -69,6 +69,22 @@ Follow these steps to set up the game locally:
 3. **Build and Run**:
    - Click on the `Build and Run` button to build the game and start playing.
 
+## How to Play
+
+### Objective
+Survive as long as possible while defeating enemies and managing resources.
+
+### Controls
+- **Move**: `W`, `A`, `S`, `D`
+- **Shoot**: Left Mouse Button
+- **Reload**: `R`
+- **Interact**: `E`
+
+### Tips
+- Collect power-ups to gain an edge over enemies.
+- Strategically navigate the map to avoid being surrounded.
+
+
 
 
           
